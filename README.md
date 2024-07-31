@@ -215,3 +215,100 @@ $ (text{Gross Margin Percentage} = (fracf|text{gross income}/text{totalrevenue}}
 
 Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyidamilola/Walmart-Sales-Performance-Analysis/blob/main/Walmart%20Sales%20Project.sql).
 
+## Answers to the Questions
+
+### Unique Cities and Branches:
+
+- Yangon: Branch A,
+- Mandalay: Branch B,
+- Naypyitaw: Branch C
+  
+•	Total Sales: $320,886.39
+
+•	Total Quantity Sold: 5,472 units
+
+•	Unique Products: 6
+
+### Customer Ratings
+
+•	Average Rating by Product Line:
+
+-	 Highest: Food and Beverage - 7.11,
+-	 Second Highest: Fashion Accessories,
+-	 Lowest: Health and Beauty - 6.98
+
+### Payment Methods
+
+•	Most Common Payment Methods: 	Cash: 344 transactions,	Ewallet: 342 transactions, and	Credit Card: 309 transactions
+
+•	Sales Revenue by Payment Method: 	Cash: $112,206.57,	Ewallet: $108,330.04,	Credit Card: $100,349.78
+
+### Product Line Performance
+
+•	Most Sold by Count:	Fashion Accessories: 178 units,	Food and Beverage: 174 units,	Electronics Accessories: 169 units,	Lowest: Sports and Travel - 163 units
+
+•	Highest Sales Generated:	Food and Beverage: $56,144.84,	Fashion Accessories: $54,305.90,	Lowest: Health and Beauty - $48,854.38
+
+•	Largest VAT:	Home and Lifestyle: $16.03,	Sports and Travel: $15.76,	Lowest: Fashion Accessories - $14.53
+
+### Sales Performance by Branch and City
+
+•	Total Sales by Branch:	Branch A (Yangon): $105,861.01,	Branch B (Mandalay): $104,534.61,	Branch C (Naypyitaw): $110,490.76
+
+•	Products Sold by Branch:	Branch A: 1,849 units,	Branch B: 1,795 units,	Branch C: 1,828 units
+
+•	Tax Collected: Naypyitaw: $5,261.47,	Yangon: $5,041.00,	Mandalay: $4,977.84
+
+### Monthly Revenue
+
+•	January: $116,291.87 has the	Highest Sales,	March has $108,867.15 sales, February  has the Lowest Sales of $95,727.38		
+
+•	Most Common Product Line by Gender
+
+- Female:	Fashion Accessories: 96 units and	Food and Beverage: 90 units,
+
+- Male:	Health and Beauty: 88 units
+
+•	Gender Distribution:
+
+- Male: 498,
+
+- Female: 497
+
+•	Sales by Time of Day
+
+- Evening: $137,365.27,
+
+- Afternoon: $122,276.61,
+
+- Morning: $61,244.51
+
+•	Sales Count by Time of Day
+
+-	Evening: 56, Afternoon: 48,	Morning: 20
+
+•	Customer Ratings by Time of Day
+
+-	Afternoon: 7.0,	Morning: 6.9,	Evening: 6.9
+
+### Customer Type Analysis
+
+•	Revenue by Customer Type
+
+-	Member: $16,362.10,
+
+-	Normal: $17,261.29
+
+•	VAT Paid by Customer Type
+
+- Member: $15.61,
+
+- Normal: $15.01
+
+### Weekly Performance
+
+•	Best Average Rating by Day
+
+- Monday and Friday: 7.1,
+- Lowest: Wednesday - 6.8
+
