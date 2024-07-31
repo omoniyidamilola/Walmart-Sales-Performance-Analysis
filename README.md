@@ -312,3 +312,59 @@ Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyid
 - Monday and Friday: 7.1,
 - Lowest: Wednesday - 6.8
 
+## Recommendations to Improve Walmart's Sales Performance
+
+### Enhance Product Line Focus
+
+ •	Food and Beverage: Since this category has the highest sales and customer ratings, consider expanding the variety and availability of food and beverage products. Implementing promotions and discounts can further boost sales in this category.
+
+ •	Fashion Accessories: With high sales and strong customer preference among females, increasing the range and promoting fashion accessories through targeted marketing campaigns can drive more sales.
+
+ •	Health and Beauty: Given that this category has the lowest sales and customer ratings, improving product quality, offering better promotions, and gathering customer feedback to address their concerns can help enhance its performance.
+
+### Optimize Payment Methods
+
+ •	Cash and Ewallet: As these payment methods are the most popular, ensure that checkout processes for these methods are efficient and seamless. Implement loyalty programs or discounts for cash and ewallet users to encourage repeat purchases.
+
+ •	Credit Card Promotions: Since credit card transactions are less frequent, introducing special credit card discounts or cashback offers can encourage more customers to use this payment method, potentially increasing overall sales.
+
+### Monthly Promotions
+
+•	January and March: Capitalize on these high revenue months by running major sales events and promotions. Analyze the factors contributing to higher sales in these months and replicate successful strategies during other months.
+
+•	February: Focus on boosting sales during this traditionally low performing month by introducing special offers, and loyalty rewards.
+
+### Targeted Marketing and Customer Segmentation
+
+•	Gender Specific Campaigns: Tailor marketing campaigns to address the preferences of different genders. For example, promote fashion accessories and food and beverages to female customers, while emphasizing health and beauty products to male customers.
+
+•	Customer Type Promotions: Develop exclusive offers for both member and normal customers. Encourage normal customers to join the membership program by highlighting the benefits and exclusive deals available to members.
+
+### Improve Customer Experience
+
+•	Product Ratings and Reviews: Encourage customers to leave reviews and ratings, especially for lower rated categories like health and beauty and home and lifestyle. Use this feedback to make necessary improvements and address customer concerns.
+
+•	Customer Feedback: Implement regular surveys and feedback mechanisms to understand customer needs and preferences better. Use this information to make data driven decisions and improve product offerings and services.
+
+### Time based Sales Strategies
+
+•	Evening Sales: With the highest sales occurring in the evening, consider extending store hours or offering evening specific promotions to attract more customers during this peak time.
+
+•	Morning and Afternoon Promotions: Introduce special morning and afternoon discounts or loyalty points to drive sales during these times and balance out the sales distribution throughout the day.
+
+### Branch Strategies
+
+•	Branch A (Yangon): With the highest number of products sold, focus on maintaining stock levels and ensuring a wide variety of popular products are available.
+
+•	Branch C (Naypyitaw): Since this branch has the highest sales revenue, analyze the successful strategies used here and apply them to other branches. Additionally, focus on further enhancing customer service and product availability.
+
+•	Branch B (Mandalay): Implement strategies to increase sales, such as localized promotions, community engagement, and improving the shopping experience to attract more customers.
+
+### VAT and Tax Strategies
+
+•	City Tax Analysis: Leverage the data on VAT collection to optimize pricing strategies and tax efficient practices across different cities. Ensure compliance and transparency in tax collection to build customer trust.
+
+## Conclusion
+
+By focusing on product line improvements, optimizing payment methods, leveraging seasonal trends, targeting specific customer segments, enhancing customer experience, implementing time based sales strategies, and applying branch tactics, Walmart can significantly improve its sales performance. Regularly analyzing sales data and adapting strategies based on customer feedback and market trends will help sustain growth and drive profitability.
+
