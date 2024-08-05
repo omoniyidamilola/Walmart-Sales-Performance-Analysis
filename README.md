@@ -370,3 +370,6 @@ Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyid
 
 By focusing on product line improvements, optimizing payment methods, leveraging seasonal trends, targeting specific customer segments, enhancing customer experience, implementing time based sales strategies, and applying branch tactics, Walmart can significantly improve its sales performance. Regularly analyzing sales data and adapting strategies based on customer feedback and market trends will help sustain growth and drive profitability.
 
+## Thanks for following through
+
+![](Thank_You.jpeg)
