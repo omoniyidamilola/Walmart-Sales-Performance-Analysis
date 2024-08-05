@@ -217,7 +217,7 @@ Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyid
 
 ## Answers to the Questions
 
-![](Walmart_Sales_Dashboard.png)
+![](walmart_sales_dashboard.png)
 
 ### Unique Cities and Branches:
 
@@ -355,6 +355,64 @@ Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyid
 •	Morning and Afternoon Promotions: Introduce special morning and afternoon discounts or loyalty points to drive sales during these times and balance out the sales distribution throughout the day.
 
 ### Branch Strategies
+
+Analyzing the sales performance of Branch C (Naypyitaw) in comparison to Branch A (Yangon) and Branch B (Mandalay) can provide insights into factors contributing to its higher sales. Here are some potential factors and actions Branch C might be taking that the other branches could consider
+
+### Factors Affecting Sales Performance
+
+### 1.  Location and Demographics
+
+ •	Population Density: Branch C might be located in an area with a higher population density or more affluent residents, leading to higher foot traffic and sales.
+
+ •	Customer Demographics: The demographic profile of customers, such as income levels, lifestyle preferences, and spending behavior, might be more favorable in Naypyitaw.
+
+### 2. Product Selection and Inventory Management
+
+ •	Product Availability: Branch C may have a better selection of popular products and higher stock levels, ensuring that customer demand is consistently met.
+
+ •	Product Variety: Offering a wider range of products or exclusive items that are not available in other branches could attract more customers.
+
+### 3.  Marketing and Promotions
+
+  •	Targeted Marketing: Branch C might be executing more effective marketing campaigns, utilizing local media, social media, and targeted promotions to attract customers.
+
+ •	Promotional Events: Frequent and appealing promotional events, such as sales, discounts, and loyalty programs, could be driving higher sales.
+
+### 4.  Customer Service and Experience
+ 
+ •	Quality of Service: Superior customer service, including knowledgeable staff, efficient checkout processes, and a pleasant shopping environment, can enhance customer satisfaction and loyalty.
+
+ •	Customer Engagement: Branch C might be more actively engaging with customers through feedback mechanisms, loyalty programs, and personalized services.
+
+### 5.  Operational Efficiency
+ 
+ •	Store Layout: An optimized store layout that enhances the shopping experience and makes it easier for customers to find products could contribute to higher sales.
+
+ •	Operational Hours: Longer operational hours or flexible timing to cater to customer convenience might be a factor.
+
+### 6.     Local Community Engagement
+
+ •	Community Involvement: Branch C might be more involved in local community events, sponsorships, and partnerships, fostering a strong community presence and loyalty.
+
+ •	Local Preferences: Understanding and catering to the specific preferences and needs of the local community can significantly impact sales.
+
+ #### Recommendations for Branches A and B
+
+1.	Conduct Market Research: Understand the local demographics, preferences, and behavior of customers in Yangon and Mandalay. Tailor product offerings and marketing strategies to meet these needs.
+
+2.	Enhance Product Selection: Ensure that popular and high-demand products are always in stock. Consider introducing exclusive items and expanding the product variety.
+
+3.	Improve Marketing Efforts: Increase marketing efforts through local advertising, social media campaigns, and targeted promotions. Highlight unique selling points and promotions to attract customers.
+
+4.	Focus on Customer Service: Train staff to provide excellent customer service, enhance the in store experience, and create a welcoming shopping environment. Implement efficient checkout processes to reduce wait times.
+
+5.	Engage with the Community: Increase involvement in local events, sponsorships, and partnerships. Build a strong community presence to foster customer loyalty.
+
+6.	Optimize Store Layout and Operations: Review and optimize store layouts to enhance the shopping experience. Consider extending operational hours to cater to customer convenience.
+
+7.	Leverage Feedback and Data: Collect and analyze customer feedback regularly to identify areas for improvement. Use sales data to inform decision making and tailor strategies.
+
+By analyzing and replicating successful strategies from Branch C, and addressing the specific needs and preferences of their local customer base, Branches A and B can work towards improving their sales performance.
 
 •	Branch A (Yangon): With the highest number of products sold, focus on maintaining stock levels and ensuring a wide variety of popular products are available.
 
