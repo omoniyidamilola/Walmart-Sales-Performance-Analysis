@@ -219,6 +219,7 @@ Please refer to the [Walmart Sales Project SQL file](https://github.com/omoniyid
 
 ![](walmart_sales_dashboard.png)
 
+Link to the interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMjQ1YWE5YmQtNzlkNC00OTVhLWE5ZjItZDhhNzRmNWZiNjJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ### Unique Cities and Branches:
 
 - Yangon: Branch A,
