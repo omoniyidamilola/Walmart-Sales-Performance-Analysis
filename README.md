@@ -90,7 +90,7 @@ Generate new columns from existing ones to derive additional insights.
 
 ### Exploratory Data Analysis (EDA)
 
-Perform EDA to answer the project’s key questions and objectives Usin SQL.
+Perform EDA to answer the project’s key questions and objectives Using SQL.
 
 ## Conclusion 
 
