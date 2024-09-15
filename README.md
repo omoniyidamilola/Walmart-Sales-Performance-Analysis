@@ -1,4 +1,4 @@
-# Walmart-Sales-Performance-Analysis
+# Walmart Sales Performance Analysis
 
 ![](Wallmart1.jpg)
 
